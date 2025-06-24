@@ -51,8 +51,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kl3inIT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kl3inIT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/kl3inIT/kl3inIT/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kl3inIT/output/snake.svg" alt="Snake animation" />
 
