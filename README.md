@@ -53,4 +53,16 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=kl3inIT&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
+## 📁 Repository Summary (All Repos)
+
+<p align="center">
+  <a href="https://github.com/kl3inIT?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkl3inIT" alt="Public repositories count"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kl3inIT&theme=dracula" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kl3inIT&theme=dracula" alt="Most commit language" />
+</div>
 
